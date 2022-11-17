@@ -2,6 +2,7 @@
 
 ```bash
 $ npm install -g @ionic/cli
+$ npm install
 $ npm install -g serve
 ```
 
