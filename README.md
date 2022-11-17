@@ -2,8 +2,8 @@
 
 ```bash
 $ npm install -g @ionic/cli
-$ npm install
 $ npm install -g serve
+$ npm install
 ```
 
 ## Running the app
