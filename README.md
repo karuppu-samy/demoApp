@@ -1,12 +1,16 @@
-# Installation
+## Installation
+
+```bash
 $ npm install -g @ionic/cli
-
 $ npm install -g serve
-# Running the app
-Development mode
+```
 
+## Running the app
+
+```bash
+# development
 $ ionic serve
 
-Production mode
-
+# production mode
 $ serve -s build
+```
