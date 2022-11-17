@@ -10,6 +10,7 @@ $ npm install
 
 ```bash
 # development
+$ npm run start -- windows 11 user
 $ ionic serve
 
 # production mode
